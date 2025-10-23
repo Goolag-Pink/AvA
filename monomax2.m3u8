@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:7F:45:E6&stream=1660492&extension=m3u8
+#http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:7F:45:E6&stream=1660492&extension=m3u8
+http://178.132.1.197:8080/play/live.php?mac=10:27:BE:05:C6:A1&stream=130724&extension=m3u8
